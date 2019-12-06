@@ -10,3 +10,5 @@ navbar:
       href: EDAforProject1_R5_2.html
     - text: "R Shiny APPS"
       href: RshinyApps.html
+    - text: "Case Study 2"
+      href: Project2.html
